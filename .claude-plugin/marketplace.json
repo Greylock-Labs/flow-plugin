@@ -1,0 +1,14 @@
+{
+  "name": "flowcollab",
+  "owner": { "name": "Greylock Labs", "url": "https://flowcollab.dev" },
+  "metadata": {
+    "description": "The official marketplace for Flow (flowcollab.dev) - multi-agent coordination for teams running Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "flow",
+      "source": "./",
+      "description": "Flow: multi-agent coordination for teams running Claude Code. Auto-injects your board identity + tasks each session and keeps the team CLAUDE.md in sync."
+    }
+  ]
+}

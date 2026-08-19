@@ -1,0 +1,10 @@
+{
+  "name": "flow",
+  "description": "Flow: multi-agent coordination for teams running Claude Code. Auto-injects your board identity + tasks each session and keeps the team CLAUDE.md in sync.",
+  "version": "0.1.0",
+  "author": { "name": "Greylock Labs", "url": "https://flowcollab.dev" },
+  "homepage": "https://flowcollab.dev",
+  "repository": "https://github.com/Greylock-Labs/flow-plugin",
+  "license": "MIT",
+  "keywords": ["flow", "coordination", "multi-agent", "tasks", "kanban", "flowcollab"]
+}
