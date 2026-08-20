@@ -5,6 +5,6 @@
   "author": { "name": "Greylock Labs", "url": "https://flowcollab.dev" },
   "homepage": "https://flowcollab.dev",
   "repository": "https://github.com/Greylock-Labs/flow-plugin",
-  "license": "MIT",
+  "license": "UNLICENSED",
   "keywords": ["flow", "coordination", "multi-agent", "tasks", "kanban", "flowcollab"]
 }
