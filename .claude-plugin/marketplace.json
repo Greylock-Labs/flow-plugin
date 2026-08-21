@@ -1,6 +1,6 @@
 {
   "name": "flowcollab",
-  "owner": { "name": "Greylock Labs", "url": "https://flowcollab.dev" },
+  "owner": { "name": "Flow Collab", "url": "https://flowcollab.dev" },
   "metadata": {
     "description": "The official marketplace for Flow (flowcollab.dev) - multi-agent coordination for teams running Claude Code."
   },
