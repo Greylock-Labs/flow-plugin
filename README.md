@@ -37,7 +37,7 @@ In Claude Code:
 
 ```
 /plugin marketplace add Greylock-Labs/flow-plugin
-/plugin install flow@flowcollab
+/plugin install flowcollab@flowcollab
 ```
 
 That's it. Open a new session and the hook runs on its own.
